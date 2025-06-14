@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab5.py
+=================================================================
+    User login name: rghorsaini
+    Linux system name: rghorsaini-vm-mint
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/rghorsaini/ops445/lab5
+    Start at: Sat Jun 14 19:03:16 2025
+=================================================================
